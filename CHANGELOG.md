@@ -2,7 +2,19 @@
 
 All notable changes to this project will be documented in this file. The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org).
 
-## [v7.1.0](https://github.com/puppetlabs/puppetlabs-iis/tree/v7.1.0) (2020-07-07)
+## [v7.2.0](https://github.com/puppetlabs/puppetlabs-iis/tree/v7.2.0) (2020-11-09)
+
+[Full Changelog](https://github.com/puppetlabs/puppetlabs-iis/compare/v7.1.0...v7.2.0)
+
+### Added
+
+- pdksync - \(IAC-973\) - Update travis/appveyor to run on new default branch `main` [\#286](https://github.com/puppetlabs/puppetlabs-iis/pull/286) ([david22swan](https://github.com/david22swan))
+
+### Fixed
+
+- \(IAC-991\) - Removal of inappropriate terminology [\#293](https://github.com/puppetlabs/puppetlabs-iis/pull/293) ([david22swan](https://github.com/david22swan))
+
+## [v7.1.0](https://github.com/puppetlabs/puppetlabs-iis/tree/v7.1.0) (2020-07-08)
 
 [Full Changelog](https://github.com/puppetlabs/puppetlabs-iis/compare/v7.0.1...v7.1.0)
 
